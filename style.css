@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+body {
+
+
+}
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 400px;
+}
+.list__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.list__header {
+    font-size: 50px;
+    
+}
+i {
+    font-size: 25px;
+
+}
+.list__input input {
+    margin-left: 10px;
+    text-align: right;
+    font-size: 25px;
+
+
+}
